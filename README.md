@@ -1,4 +1,4 @@
 ba3200k
 =======
 
-My new repository using Python 3200K.
+My new repository for learning Git and GitHub.
